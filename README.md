@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVrNG80YWlia2RoaG43MzgyZTQxaTdxeWVpcmN0N2FmNWE1Y3ExbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" alt="hallo">
 </div>
 
-<h1 align="center">Hello, I'm Muhammad Iksan</h1>
+<h1 align="center">Hi, I'm Muhammad Iksan</h1>
 
 ### Connect with me:
 
