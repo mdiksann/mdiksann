@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hey👋, I'm Muhammad Iksan</h1>
-<br>
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdiksann/) [![Instagram](https://img.shields.io/badge/@m_iksnnn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_iksnnn/)
@@ -13,5 +12,5 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdiksann&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
