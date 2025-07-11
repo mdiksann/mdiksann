@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxtOXR1aHZ5ZGh6aW92cjdueXdzcm81MWdhemRsMzltcmE5dGNhdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif">
-</div>
+![hallo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxtOXR1aHZ5ZGh6aW92cjdueXdzcm81MWdhemRsMzltcmE5dGNhdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif)
 
 <h1 align="center">Hey👋, I'm Muhammad Iksan</h1>
 <br>
