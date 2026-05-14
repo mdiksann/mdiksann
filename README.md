@@ -1,6 +1,6 @@
-<h3 align="left">Hi, I'm Muhammad Iksan</h3>
+<h3>Hi, I'm Muhammad Iksan</h3>
 
----
+I’m a web developer focused on backend development, including APIs, databases, and scalable systems.
 
 ### Connect with me:
 
